@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kalkulator Bidang Datar</string>
+    <string name="input1">Panjang/Alas/Diameter :</string>
+    <string name="input2">Lebar/Tinggi :</string>
+    <string name="textHint1">Inputkan Panjang, Alas, atau Diameter</string>
+    <string name="textHint2">Inputkan Lebar atau Tinggi</string>
+    <string name="Btn1">Persegi</string>
+    <string name="Btn2">Segitiga</string>
+    <string name="Btn3">Lingkaran</string>
+    <string name="luas">Luas :</string>
+    <string name="keliling">Keliling :</string>
+    <string name="errPersegi1">Panjang tidak boleh kosong</string>
+    <string name="errPersegi2">Lebar tidak boleh kosong</string>
+    <string name="errSegitiga1">Alas tidak boleh kosong</string>
+    <string name="errSegitiga2">Tinggi tidak boleh kosong</string>
+    <string name="errLingkaran1">Diameter tidak boleh kosong</string>
+</resources>
